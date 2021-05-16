@@ -1,0 +1,13 @@
+numpy
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+pandas
+nltk
+wordcloud
+sklearn
+tensorflow
+seaborn>=0.8.1
+sklearn
+keras
+keras_metrics
