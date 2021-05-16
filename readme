@@ -1,10 +1,4 @@
 # Download data from: https://www.kaggle.com/uciml/sms-spam-collection-dataset#spam.csv
-# Rename it to data.csv and put it in /data folder
-# There are two books: Overall book and Naive_Bayes book
+# Rename it to data.csv and put it in /data folder or use the one in the folder
 # RNN
 To evaluate RNN approach just run nn.py with python
-
-# N-gram Bayes Classifier
-To evaluate Bayes:
-    python3 default.py
-    python3 evaluate.py
